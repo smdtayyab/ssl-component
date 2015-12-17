@@ -1,6 +1,6 @@
 <?php 
 
-namespace BGD;
+namespace smdtayyab;
 
 class SSL {   
 

@@ -1,6 +1,6 @@
 <?php
 include "ssl.php";
-$SSL =  new BGD\SSL;
+$SSL =  new smdtayyab\SSL;
 
 //URL's that needs to be on SSL.
 /*
